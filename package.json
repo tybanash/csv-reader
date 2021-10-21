@@ -1,0 +1,11 @@
+{
+  "name": "readcsvfile",
+  "version": "1.0.0",
+  "description": "this app reads vaccination-coverage-byVaccineType csv file and prints out the first 100 rows of data in the file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nadege Awah",
+  "license": "ISC"
+}
